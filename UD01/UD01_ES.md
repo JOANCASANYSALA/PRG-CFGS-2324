@@ -176,7 +176,7 @@ Ejemplo: Dividir
 - Calcular el cociente real de la división a/b, donde a y b son números reales y b es
   distinto de cero (5/2 = 2.5)
 
-## Algoritmos
+## Algoritmos.
 
 Dado un problema P, un **algoritmo** es un conjunto de reglas o pasos que indican cómo resolver P en un tiempo finito.
 
