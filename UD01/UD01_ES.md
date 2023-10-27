@@ -182,7 +182,7 @@ Dado un problema P, un **algoritmo** es un conjunto de reglas o pasos que indica
 
 Ejemplo: Secuencias de reglas básicas que utilizamos para realizar operaciones aritméticas: sumas, restas, productos y divisiones.
 
-> #### Algoritmo para desayunar
+> #### Algoritmo para desayunar.
 >
 >```pseudocode
 >Begin20/9/2022)
