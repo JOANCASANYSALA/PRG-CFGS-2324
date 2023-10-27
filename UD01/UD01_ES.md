@@ -136,9 +136,9 @@ Como se puede apreciar, hay una similitud entre las metodologías propuestas par
 >
 > **Cuarta pregunta:** Estamos frente a un río que debemos cruzar como sea para  continuar nuestro camino. El único problema es que esa zona es el hogar de unos cocodrilos muy agresivos y no disponemos de ningún tipo de  embarcación para ir al otro lado. ¿Cómo harías para cruzar el río sin  morir en el intento?
 
-# Problemas, algoritmos y programas
+# Problemas, algoritmos y programas.
 
-## Problemas
+## Problemas.
 
 Podríamos decir que la **programación** es una forma de resolución de **problemas**.
 
